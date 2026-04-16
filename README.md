@@ -1,4 +1,4 @@
-THIS MOD IS TO BE PLAYED AFTER THE PREVIOUS MOD (DDLC Pentacontamod) AS IT IS A SEQUEL AND CONTAINS REFERENCES TO THE PREVIOUS MODS: https://github.com/A-DDLC-D-E-V/DDLC-Hexacontamod
+THIS MOD IS TO BE PLAYED AFTER THE PREVIOUS MOD (DDLC Hexacontamod) AS IT IS A SEQUEL AND CONTAINS REFERENCES TO THE PREVIOUS MODS: https://github.com/A-DDLC-D-E-V/DDLC-Hexacontamod
 
 Download and extract the included mod's ZIP. Get the official DDLC game from ddlc.moe. Go into the game folder of the official game, and add the official game's images.rpa, audio.rpa, and fonts.rpa into the mod's game folder, or it will throw an error. Run the EXE (or SH for Linux) and enjoy! And yes, I added natural blinking (partially implemented and will be fixed soon, credits to Chronos for MPT and NBT). All rights reserved by Team Salvato. This mod is a fan project and is not affiliated with or endorsed by Team Salvato.
 
